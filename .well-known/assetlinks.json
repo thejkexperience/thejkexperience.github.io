@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.thejkexperience.espressotracker",
+      "sha256_cert_fingerprints": [
+        "9A:D5:C0:C8:4F:E0:2D:6E:B8:40:1C:01:5B:80:1E:7A:3A:1F:92:BB:66:CD:B0:B1:54:5E:1D:96:D4:D5:6F:B5"
+      ]
+    }
+  }
+]
